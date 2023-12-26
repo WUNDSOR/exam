@@ -1,0 +1,1 @@
+INSERT INTO t_coin (type,name) VALUES ('USD','美元'), ('GBP','英磅'), ('EUR','歐元');
